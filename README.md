@@ -1,7 +1,7 @@
 
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Ashwath M</h3>
-<h3>Register Number:212223230023</h3>
+<h3>Name: MADHAN BABU P</h3>
+<h3>Register Number:212222230075</h3>
 
 
 <h3>AIM:</h3>
